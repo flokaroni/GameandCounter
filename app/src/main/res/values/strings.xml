@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GameandCounter</string>
+    <string name="übung3">uebung1</string>
+    <string name="answer1">awnser1</string>
+    <string name="answer2">awnser2</string>
+    <string name="answer3">awnser3</string>
+    <string name="answer4">awnser4</string>
+    <string name="übung2">uebung2</string>
+    <string name="übung1">uebung1</string>
+    <string name="word">word</string>
+    <string name="subject1">subject1</string>
+    <string name="subject2">subject2</string>
+    <string name="bung3">übung3</string>
+    <string name="bung2">übung2</string>
+    <string name="bung1">übung1</string>
+</resources>
